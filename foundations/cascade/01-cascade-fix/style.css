@@ -17,11 +17,11 @@ body {
   font-size: 20px;
 }
 
-.confirm {
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
-} 
+}
 
 .child {
   color: rgb(0, 0, 0);
