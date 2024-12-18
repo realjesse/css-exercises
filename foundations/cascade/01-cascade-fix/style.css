@@ -27,8 +27,7 @@ body {
   background: white;
 }
 
-.child {
-  color: rgb(0, 0, 0);
+.text .child {
   font-weight: 800;
   font-size: 14px;
 }
