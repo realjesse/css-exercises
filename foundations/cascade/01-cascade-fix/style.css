@@ -23,6 +23,10 @@ body {
   font-weight: bold;
 }
 
+.button.cancel {
+  background: white;
+}
+
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
