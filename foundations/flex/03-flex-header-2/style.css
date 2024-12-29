@@ -56,14 +56,8 @@ ul {
   gap: 16px;
 }
 
-li {
-  padding: 0px 16px;
-}
-
-.left-banner {
+.left-banner, .right-banner {
   display: flex;
-}
-
-.right-banner {
-  display: flex;
+  align-items: center;
+  gap: 16px;
 }
