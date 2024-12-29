@@ -50,6 +50,14 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  align-items: center;
+  margin: 0px;
+  padding: 0px 16px;
+  border: 0px;
+}
+
+li {
+  padding: 0px 16px;
 }
 
 .left-banner {
